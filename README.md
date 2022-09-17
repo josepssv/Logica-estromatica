@@ -10,7 +10,7 @@ ESTROMA:
   
 Cualquier parte de nuestro mundo vivido es estroma https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa)
 
-Un estroma siempre es estroma del Yo
+Un estroma siempre es estroma del Yo https://github.com/josepssv/EstromasDelYo
 
 Procede de estromas anteriores y sigue en operaciónes estromáticas, pero tendemos a considerarlo estable
 

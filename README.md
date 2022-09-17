@@ -26,7 +26,7 @@ Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la p
 
  - Una copia infográfica reproducida en los píxeles de la pantalla de tu dispositivo, de un dibujo, imagen o video original
  - Un sonido reproducido por el altavoz de tu dispositivo de una grabación original 
- - Un supuesto textual de la existencia del estroma (pixeles formando texto en la pantalla de tu dispositivo)
+ - Un supuesto textual de la existencia un estroma concreto materializado en la reproducción de pixeles formando texto en la pantalla de tu dispositivo
 
 No podemos presentar como real una manzana o un coche, por lo tanto las referencias a E1 realidad están muy mermadas, aunque podemos suponerlas y entonces se acercaran al plano psiquico E2 y todo el conjunto se acercará a un estroma lógico E3
 

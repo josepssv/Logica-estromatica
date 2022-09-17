@@ -18,7 +18,7 @@ Casi siempre desequilibrado hacia una de sus partes, es más real, más psíquic
 
 Consideramos en la mayoría de las veces solo presente del estroma, contorno y entorno propio del Yo, pero tendemos a aislar o eliminar su entorno
 
-Un estroma o real no es completo sin sus tres espacios Entorno, Contorno y Dintorno y sin sus tres características Física, Psíquica y lógica
+Un estroma no es completo sin sus tres espacios Entorno, Contorno y Dintorno y sin sus tres características Física, Psíquica y lógica
 
 Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la parte real E1, debe evaluarla cada Yo.
 

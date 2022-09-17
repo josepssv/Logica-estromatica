@@ -8,7 +8,7 @@ ESTROMA:
   - Parte psíquica (supuestos, deformaciones, intenciones, emociones, creencias) E2
   - Parte lógica (certezas aceptadas, fundamentos admitidos) E3
   
-Cualquier parte de nuestro mundo vivido es estroma https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa)
+Cualquier parte de nuestro mundo vivido fué, es o será estroma https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa)
 
 Un estroma siempre es estroma del Yo https://github.com/josepssv/EstromasDelYo
 

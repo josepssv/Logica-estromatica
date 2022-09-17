@@ -27,7 +27,7 @@ No podemos presentar como real una manzana o un coche, por lo tanto las referenc
 
 Se trata de
   - Exponer ejemplos de percepción de estromas que nos hagan comprender el funcionamiento del campo estromático humano
-  - Usar lógica silogística para la comprensión de la estromática del Yo y llegar a elaborar una lógica aplicada a procesos estromáticos
+  - Usar lógica formal para la comprensión de la estromática del Yo y llegar a elaborar una lógica aplicada a procesos estromáticos
   - Deducir procesos incompletos de percepción de estromas 
   
 

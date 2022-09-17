@@ -1,5 +1,5 @@
 # Logica-estromatica
-Descripción ejemplos de lógica estromática
+Descripción y ejemplos de lógica estromática
 
 CONTEXTO 
 

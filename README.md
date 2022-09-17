@@ -1,12 +1,14 @@
 # Logica-estromatica
 Descripción y ejemplos de lógica estromática
 
-CONTEXTO 
+## CONTEXTO 
 
-ESTROMA: 
+ESTROMA:
   - Parte real  (materialidad) E1
   - Parte psíquica (supuestos, deformaciones, intenciones, emociones, creencias) E2
   - Parte lógica (certezas aceptadas, fundamentos admitidos) E3
+  
+Cualquier parte de nuestro mundo vivido es estroma https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa)
 
 Un estroma siempre es estroma del Yo
 
@@ -14,9 +16,11 @@ Casi siempre está en operaciónes estromáticas, pero tendemos a considerarlo e
 
 Casi siempre desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico 
 
-Consideramos solo presente del estroma, contorno y entorno propio del Yo, pero tendemos a aislarlo del entorno
+Consideramos en la mayoría de las veces solo presente del estroma, contorno y entorno propio del Yo, pero tendemos a aislar o eliminar su entorno
 
-Pero la parte real de los ejemplos quedará muy debilitada, la parte real E1, debe evaluarla cada Yo.
+Un estroma o real no es completo sin sus tres espacios Entorno, Contorno y Dintorno y sin sus tres características Física, Psíquica y lógica
+
+Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la parte real E1, debe evaluarla cada Yo.
 
 ¿Qué parte real podemos presentar?
 

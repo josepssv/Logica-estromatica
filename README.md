@@ -12,6 +12,8 @@ Cualquier parte de nuestro mundo vivido es estroma https://es.wikipedia.org/wiki
 
 Un estroma siempre es estroma del Yo https://github.com/josepssv/EstromasDelYo
 
+El propio Yo no puede representarse en una imagen, entonces recurrimos a la imagen del espejo, simbólica o de otro Yo
+
 Procede de estromas anteriores y sigue en operaciónes estromáticas, pero tendemos a considerarlo estable
 
 Casi siempre desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico 

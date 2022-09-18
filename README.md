@@ -36,4 +36,7 @@ Se trata de
   - Usar lógica formal para la comprensión de la estromática del Yo y llegar a elaborar una lógica aplicada a procesos estromáticos
   - Deducir procesos incompletos de percepción de estromas 
   
+## Formas
 
+Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
+https://josepssv.github.io/Logica-estromatica/formas/index.html

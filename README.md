@@ -40,5 +40,7 @@ Se trata de
   
 ## Formas
 
+La forma es la solo una características, entre otras como el color, la textura, de la parte material del estroma, pero suele identificar al estroma de modo muy simple 
+
 Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
 https://josepssv.github.io/Logica-estromatica/formas/index.html

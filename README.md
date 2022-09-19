@@ -56,9 +56,9 @@ Incluso un pensamiento nos parece sin dimensión, dimensión cero, un punto o al
 
 La experiencia nos dice que la realidad es tridimensional pero simplificamos o simbolizamos en dos dimensiones
 
-¿Podemos deducir que todos los estromas son tridimensionales? ¿También que un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
+¿Podemos deducir que todos los estromas son tridimensionales? También que ¿un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
 
-Vamos a afirmalo anotandolo como una premisa estromática para poder continuar
+Vamos a afirmalo anotándolo como una premisa estromática para poder continuar
 
  - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer sin dimensión, puntuales, lineales o planos
 

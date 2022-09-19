@@ -10,10 +10,15 @@ Cualquier parte de nuestro mundo vivido, adspectabilis, es estroma según la fil
   - Parte real  (materialidad, espacios: exterior o entorno, contorno e interior o dintorno) E1
   - Parte psíquica (supuestos, deformaciones, intenciones, emociones, creencias) E2
   - Parte lógica (certezas aceptadas, fundamentos admitidos) E3
-  
+
+OPERCIÓN ESTROMÁTICA:
+
 Una operación estromática es la transfomación de un estroma en otro
 
+
 ## PREMISAS LÓGICAS
+
+La influencia del lenguaje y su uso habitual nos hace considerar estas premisas o aclaraciones, para poder entender la realidad desde la persperctiva humana
 
 Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 

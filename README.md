@@ -4,23 +4,43 @@ Descripción y ejemplos de lógica estromática
 ## CONTEXTO 
 
 ESTROMA:
-  - Parte real  (materialidad) E1
+
+Cualquier parte de nuestro mundo vivido, adspectabilis, es estroma según la filosofía estromática. https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa) 
+
+  - Parte real  (materialidad, espacios: exterior o entorno, contorno e interior o dintorno) E1
   - Parte psíquica (supuestos, deformaciones, intenciones, emociones, creencias) E2
   - Parte lógica (certezas aceptadas, fundamentos admitidos) E3
   
-Cualquier parte de nuestro mundo vivido es estroma https://es.wikipedia.org/wiki/Estroma_(filosof%C3%ADa)
+Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 
-Un estroma siempre es estroma del Yo https://github.com/josepssv/EstromasDelYo
+Una operación estromática es la transfomación de un estroma en otro, pero solemos minusvalorarlas conceptualmente en favor del estroma estable
 
-El propio Yo no puede representarse en una imagen, entonces recurrimos a la imagen del espejo, simbólica o de otro Yo
+Un estroma procede de estromas anteriores y sigue continuamente en operaciónes estromáticas, pero tendemos a considerarlo estable 
 
-Procede de estromas anteriores y sigue en operaciónes estromáticas, pero tendemos a considerarlo estable
+Las operaciones estromáticas de los "otros Yo" se consideran modificaciones (operaciones estromáticas) del entorno del Yo
 
-Casi siempre desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico 
+Un estroma debe ser completo, si no es estroma completo será falso. Para esto su parte física debe contener sus tres espacios: entorno, contorno y dintorno y debemos poder asignarle sus tres características: física, psíquica y lógica
 
-Consideramos en la mayoría de las veces solo presente del estroma, contorno y entorno propio del Yo, pero tendemos a aislar o eliminar su entorno
+El propio Yo no puede representarse totalmente de ningun modo, solo partes (otros estromas) pueden simplificarse o simbolizarse
 
-Un estroma no es completo si su parte física no contiene sus tres espacios: Entorno, Contorno y Dintorno y no podemos asignarle sus tres características: Física, Psíquica y lógica
+Casi siempre el estroma Yo está referido a uno de los espacios, al entorno, al contorno o a su dintorno, siendo el representativo del estroma Yo el contorno
+
+Solemos considerar en la mayoría de las ocasiones el contorno de un estroma dentro del estroma "entorno del Yo"
+
+Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico
+
+Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar el entorno del estroma, su cara oculta y su dintorno
+
+
+
+## SIMBOLIZACIÓN
+
+### Formas
+
+La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero suele usarse para identificar al estroma de modo muy simple, simbólico, con el uso de iconos o texto 
+
+Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
+https://josepssv.github.io/Logica-estromatica/formas/index.html
 
 Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la parte real E1, debe evaluarla cada Yo.
 
@@ -33,14 +53,10 @@ Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la p
 No podemos presentar como real una manzana o un coche, por lo tanto las referencias a E1 realidad están muy mermadas, aunque podemos suponerlas y entonces se acercaran al plano psiquico E2 y todo el conjunto se acercará a un estroma lógico E3
 
 
+## PROCEDIMIENTO 
+
 Se trata de
-  - Exponer ejemplos de percepción de estromas que nos hagan comprender el funcionamiento del campo estromático humano
+  - Expon##r ejemplos de percepción de estromas que nos hagan comprender el funcionamiento del campo estromático humano
   - Usar lógica formal para la comprensión de la estromática del Yo y llegar a elaborar una lógica aplicada a procesos estromáticos
   - Deducir procesos incompletos de percepción de estromas 
   
-## Formas
-
-La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero suele usarse para identificar al estroma de modo muy simple, simbólico, con el uso de iconos o texto 
-
-Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
-https://josepssv.github.io/Logica-estromatica/formas/index.html

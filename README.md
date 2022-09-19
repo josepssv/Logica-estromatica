@@ -41,6 +41,8 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
   10- La parte psíquica E2, creencias y emociones afecta a la lógica del Yo E3 formando un filtro continuo sobre lo que es cierto o falso de la realidad
   
   11- Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
+  
+  12- El dintorno de cualquier estroma suele ser además de invisible, muy sutil. Al realizar la operación estromática de abrir o dividir el dintorno se forma un estroma nuevo
 
 
 ========================
@@ -87,7 +89,7 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
 
-
+### Dintorno invisible
 
 ### Simbolización de los sentidos
 

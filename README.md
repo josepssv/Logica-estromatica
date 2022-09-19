@@ -56,13 +56,13 @@ Incluso un pensamiento nos parece sin dimensión, dimensión cero, un punto o al
 
 La experiencia nos dice que la realidad es tridimensional pero simplificamos o simbolizamos en dos dimensiones
 
-Las matemáticas analizan dimensiones fractales para expresar formas que aparentan dimensiones intermedias, por ejemplo las nubes dependiendo de la escala no son totalmente tridimensionales sino que es una capa muy fina, casi plana dentro de la atmósfera terrestre que esférica. Tridimensionales pero no tanto. Conceptualmente es sencillo admitir el infinito, que no hay dimensiónes, un punto y una recta, o un plano pero la realidad en su análisis macro o micro no demuestra otra cosa que tridimensionalidad
+Las matemáticas analizan dimensiones fractales para expresar formas que aparentan dimensiones intermedias, por ejemplo las nubes dependiendo de la escala no son totalmente tridimensionales sino que es una capa muy fina, casi plana dentro de la atmósfera terrestre que esférica. Tridimensionales pero no tanto. Conceptualmente es sencillo admitir el infinito, que no hay dimensiónes, un punto y una recta, o un plano o n-dimensionales pero la realidad en su análisis macro o micro no demuestra otra cosa que tridimensionalidad
 
 ¿Podemos deducir entonces que todos los estromas son tridimensionales? También que ¿un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
 
 Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
- - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer sin dimensión, puntuales, lineales o planos
+ - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
 
 
 

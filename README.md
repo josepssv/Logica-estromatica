@@ -68,11 +68,9 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
 ### Formas visuales
 
-La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero suele usarse para identificar al estroma de modo muy simple, simbólico, con el uso de iconos o texto 
+Si tuviesemos que exponer ejemplos de estromas visuales, la parte real quedaría muy debilitada. La parte real E1, debe evaluarla cada Yo.
 
-Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la parte real E1, debe evaluarla cada Yo.
-
-¿Qué parte real podemos presentar?
+¿Qué parte real de una forma visual podemos presentar?
 
  - Una copia infográfica reproducida en los píxeles de la pantalla de tu dispositivo, de un dibujo, imagen o video original
  - Un sonido reproducido por el altavoz de tu dispositivo de una grabación original 
@@ -80,12 +78,15 @@ Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la p
 
 No podemos presentar como real una manzana o un coche, por lo tanto las referencias a E1 realidad están muy mermadas, aunque podemos suponerlas y entonces se acercaran al plano psiquico E2 y todo el conjunto se acercará a un estroma lógico E3
 
-Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
-https://josepssv.github.io/Logica-estromatica/formas/index.html
 
 ### Formas sonoras
 
 ## COMUNICACIÓN ENTRE LOS ESPACIOS ESTROMÁTICOS
+
+## EXPERIMENTACIÓN
+
+Buscando estromas necesarias para resolver visualmente las operaciones estromaticas del Yo
+https://josepssv.github.io/Logica-estromatica/formas/index.html
 
 ## PROCEDIMIENTO 
 

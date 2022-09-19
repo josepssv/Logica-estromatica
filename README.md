@@ -22,7 +22,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   1- Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 
-  2- Un estroma procede de estromas anteriores y sigue continuamente en operaciónes estromáticas, pero tendemos a considerarlo estable 
+  2- Un estroma procede de estromas anteriores y sigue continuamente en el presente en operaciónes estromáticas, pero tendemos a considerarlo estable 
 
   3- Las operaciones estromáticas de los "otros Yo" se consideran modificaciones (operaciones estromáticas) del entorno del Yo
 

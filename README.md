@@ -48,7 +48,7 @@ La forma es la solo una característica, entre otras como el color, la textura, 
 
 Decir que todas las formas o estromas son tridimensionales ¿es correcto?
 
-No parece en ocaciones falso, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección. Nos acostrumbramos a la representación bidimensional en textos o imágenes, etc..
+Nos parece en ocaciones falso, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección. Nos acostrumbramos a la representación bidimensional en textos o imágenes, etc..
 
 Incluso un pensamiento nos parece sin dimensión, dimensión cero, un punto o algo sin límites, que no puede tener forma, es algo bioquímico, electroquímico. Esa complejedad biologica nos deja sin estrategias para el análisis de esas formas, sin utensilios para analizar esos espacios psíquicos y lógicos que hemos definido como premisas del estroma 
 
@@ -56,9 +56,11 @@ Incluso un pensamiento nos parece sin dimensión, dimensión cero, un punto o al
 
 La experiencia nos dice que la realidad es tridimensional pero simplificamos o simbolizamos en dos dimensiones
 
-¿Podemos deducir que todos los estromas son tridimensionales? También que ¿un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
+Las matemáticas analizan dimensiones fractales para expresar formas que aparentan dimensiones intermedias, por ejemplo las nubes dependiendo de la escala no son totalmente tridimensionales sino que es una capa muy fina, casi plana dentro de la atmósfera terrestre que esférica. Tridimensionales pero no tanto. Conceptualmente es sencillo admitir el infinito, que no hay dimensiónes, un punto y una recta, o un plano pero la realidad en su análisis macro o micro no demuestra otra cosa que tridimensionalidad
 
-Vamos a afirmalo anotándolo como una premisa lógica para poder continuar
+¿Podemos deducir entonces que todos los estromas son tridimensionales? También que ¿un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
+
+Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer sin dimensión, puntuales, lineales o planos
 

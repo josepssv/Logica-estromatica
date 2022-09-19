@@ -50,7 +50,9 @@ Decir que todas las formas o estromas son tridimensionales ¿es correcto?
 
 No parece en ocaciones cierto, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección. Nos acostrumbramos a la representación bidimensional en textos o imágenes, etc..
 
-¿Pero estas aparentes dimensiones una y dos las estamos construyendo por nuestra caracteristica de simplificar o simbolizar la forma de los estromas a solo dos dimensiones o son reales?
+Incluso un pensamiento nos parece dimensión cero, un punto o algo sin límites, que no puede tener forma, es algo bioquímico, electroquímico. Esa complejedad biologica nos deja sin estrategias para el análisis de esas formas, sin utensilios para analizar esos espacios psíquicos y lógicos que hemos definido como premisas del estroma 
+
+¿Pero estas aparentes dimensiones cero, una y dos las estamos construyendo por nuestra caracteristica de simplificar o simbolizar la forma de los estromas a solo dos dimensiones o son reales?
 
 La experiencia nos dice que la realidad es tridimensional pero simplificamos o simbolizamos en dos dimensiones
 

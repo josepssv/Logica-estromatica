@@ -13,7 +13,7 @@ Cualquier parte de nuestro mundo vivido, adspectabilis, es estroma según la fil
   
 Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 
-Una operación estromática es la transfomación de un estroma en otro, pero solemos minusvalorarlas conceptualmente en favor del estroma estable
+Una operación estromática es la transfomación de un estroma en otro
 
 Un estroma procede de estromas anteriores y sigue continuamente en operaciónes estromáticas, pero tendemos a considerarlo estable 
 

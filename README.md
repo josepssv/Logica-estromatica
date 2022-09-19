@@ -41,14 +41,11 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
   - La parte psíquica E2, creencias y emociones afecta a la lógica del Yo E3 formando un filtro continuo sobre lo que es cierto o falso de la realidad
 
 
-## SIMBOLIZACIÓN
+## SIMBOLIZACIÓN DE ESTROMAS
 
-### Formas
+### Formas visuales
 
 La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero suele usarse para identificar al estroma de modo muy simple, simbólico, con el uso de iconos o texto 
-
-Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
-https://josepssv.github.io/Logica-estromatica/formas/index.html
 
 Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la parte real E1, debe evaluarla cada Yo.
 
@@ -60,11 +57,17 @@ Pero la parte real de los ejemplos quedará muy debilitada en este estudio, la p
 
 No podemos presentar como real una manzana o un coche, por lo tanto las referencias a E1 realidad están muy mermadas, aunque podemos suponerlas y entonces se acercaran al plano psiquico E2 y todo el conjunto se acercará a un estroma lógico E3
 
+Buscando estromas/formas necesarias para resolver visualmente las Operaciones estromaticas del Yo
+https://josepssv.github.io/Logica-estromatica/formas/index.html
+
+### Formas sonoras
+
+### Formas textuales
 
 ## PROCEDIMIENTO 
 
 Se trata de
-  - Expon##r ejemplos de percepción de estromas que nos hagan comprender el funcionamiento del campo estromático humano
+  - Exponer ejemplos de percepción de estromas que nos hagan comprender el funcionamiento del campo estromático humano
   - Usar lógica formal para la comprensión de la estromática del Yo y llegar a elaborar una lógica aplicada a procesos estromáticos
   - Deducir procesos incompletos de percepción de estromas 
   

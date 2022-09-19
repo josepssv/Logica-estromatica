@@ -63,7 +63,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
 ### 9 Suprimir para simbolizar
 
-### 10 Estroma psíquico trasdendental
+### 10 Estroma psíquico trascendental
 
 ### 11 Formas tridimensionales
 

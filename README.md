@@ -66,12 +66,14 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
 
 
-### Estromas sensoriales
-ESTROMAS OLFATIVO-GUSTATIVO-TACTILES
+### Simbolización de los sentidos
+
+LOS CINCO SENTIDOS
 
 ESTROMAS SONOROS
 
 ESTROMAS VISUALES
+
 Si tuviesemos que exponer ejemplos de estromas visuales, la parte real quedaría muy debilitada. La parte real E1, debe evaluarla cada Yo.
 
 ¿Qué parte real de una forma visual podemos presentar?

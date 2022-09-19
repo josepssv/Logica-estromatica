@@ -45,6 +45,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
 ### Formas
 La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero es la más significativa,  puede simbolizar la realidad haciendo referencia a los contornos del estroma que suelen conceptualizarse como planos. Pero la realidad se nos presenta por la experiencia como tridimensional 
+
 Decir que todas las formas o estromas son tridimensionales ¿es correcto?
 
 No parece en ocaciones cierto, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección. Nos acostrumbramos a la representación bidimensional en textos o imágenes, etc..

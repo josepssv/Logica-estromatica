@@ -32,7 +32,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   - Casi siempre el estroma Yo está referido a uno de los espacios, al entorno, al contorno o a su dintorno, siendo el representativo del estroma Yo el contorno
 
-  - Solemos considerar en la mayoría de las ocasiones el contorno de un estroma dentro del estroma "entorno del Yo"
+  - Solemos considerar en la mayoría de las ocasiones los estromas dentro del estroma "entorno del Yo" omitiendo esta obviedad
 
   - Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico y está en continua circularidad debido a operaciones estromáticas del dintorno del Yo en E2 (pensamientos)
 

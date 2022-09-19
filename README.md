@@ -20,23 +20,23 @@ Una operación estromática es la transfomación de un estroma en otro en el tie
 
 La influencia del lenguaje y su uso habitual nos hace considerar estas premisas o aclaraciones que sustentan un posterior desarrollo para poder entender la realidad desde la persperctiva humana
 
-Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
+  - Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 
-Un estroma procede de estromas anteriores y sigue continuamente en operaciónes estromáticas, pero tendemos a considerarlo estable 
+  - Un estroma procede de estromas anteriores y sigue continuamente en operaciónes estromáticas, pero tendemos a considerarlo estable 
 
-Las operaciones estromáticas de los "otros Yo" se consideran modificaciones (operaciones estromáticas) del entorno del Yo
+  - Las operaciones estromáticas de los "otros Yo" se consideran modificaciones (operaciones estromáticas) del entorno del Yo
 
-Un estroma debe ser completo, si no es estroma completo será falso. Para esto su parte física debe contener sus tres espacios: entorno, contorno y dintorno y debemos poder asignarle sus tres características: física, psíquica y lógica
+  - Un estroma debe ser completo, si no es estroma completo será falso. Para esto su parte física debe contener sus tres espacios: entorno, contorno y dintorno y debemos poder asignarle sus tres características: física, psíquica y lógica
 
-El propio Yo no puede representarse totalmente de ningun modo, solo partes (otros estromas) pueden simplificarse o simbolizarse
+  - El propio Yo no puede representarse totalmente de ningun modo, solo partes (otros estromas) pueden simplificarse o simbolizarse
 
-Casi siempre el estroma Yo está referido a uno de los espacios, al entorno, al contorno o a su dintorno, siendo el representativo del estroma Yo el contorno
+  - Casi siempre el estroma Yo está referido a uno de los espacios, al entorno, al contorno o a su dintorno, siendo el representativo del estroma Yo el contorno
 
-Solemos considerar en la mayoría de las ocasiones el contorno de un estroma dentro del estroma "entorno del Yo"
+  - Solemos considerar en la mayoría de las ocasiones el contorno de un estroma dentro del estroma "entorno del Yo"
 
-Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico
+  - Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico
 
-Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar el entorno del estroma, su cara oculta y su dintorno
+  - Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar el entorno del estroma, su cara oculta y su dintorno
 
 
 

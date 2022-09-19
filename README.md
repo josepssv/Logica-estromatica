@@ -66,8 +66,12 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
 
 
-### Formas visuales
+### Estromas sensoriales
+ESTROMAS OLFATIVO-GUSTATIVO-TACTILES
 
+ESTROMAS SONOROS
+
+ESTROMAS VISUALES
 Si tuviesemos que exponer ejemplos de estromas visuales, la parte real quedaría muy debilitada. La parte real E1, debe evaluarla cada Yo.
 
 ¿Qué parte real de una forma visual podemos presentar?
@@ -76,8 +80,6 @@ Una copia infográfica reproducida en los píxeles de la pantalla de tu disposit
  
 No podemos presentar como real una manzana o un coche, por lo tanto las referencias a E1 realidad están muy mermadas, aunque podemos suponerlas y entonces se acercaran al plano psiquico E2 y todo el conjunto se acercará a un estroma lógico E3
 
-
-### Formas sonoras
 
 ## COMUNICACIÓN ENTRE LOS ESPACIOS ESTROMÁTICOS
 

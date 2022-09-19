@@ -43,6 +43,12 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
 ## SIMBOLIZACIÓN DE ESTROMAS
 
+### Formas
+La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero es la más significativa,  puede simbolizar la realidad haciendo referencia a los contornos del estroma que suelen conceptualizarse como planos. Pero la realidad es tridimensional 
+Decir que todas las formas o estromas son tridimensionales es correcto?
+No parece en ocaciones cierto, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección.
+¿Pero estas aparentes dimensiones una y dos las estamos construyendo por nuestra caracteristica de simplificar o simbolizar la forma de los estromas a solo dos dimensiones?
+
 ### Formas visuales
 
 La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero suele usarse para identificar al estroma de modo muy simple, simbólico, con el uso de iconos o texto 
@@ -62,7 +68,7 @@ https://josepssv.github.io/Logica-estromatica/formas/index.html
 
 ### Formas sonoras
 
-### Formas textuales
+## COMUNICACIÓN ENTRE LOS ESPACIOS ESTROMÁTICOS
 
 ## PROCEDIMIENTO 
 

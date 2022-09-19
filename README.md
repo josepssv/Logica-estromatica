@@ -60,7 +60,7 @@ La experiencia nos dice que la realidad es tridimensional pero simplificamos o s
 
 Vamos a afirmalo anotandolo como una premisa estromática para poder continuar
 
- - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer como puntuales, lineales o planos
+ - Todos los estromas son tridimensionales pero en su simbolización nos pueden aparecer sin dimensión, puntuales, lineales o planos
 
 
 

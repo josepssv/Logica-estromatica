@@ -89,7 +89,7 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
 
-### Dintorno invisible
+### 12 Dintorno invisible
 
 ### Simbolización de los sentidos
 

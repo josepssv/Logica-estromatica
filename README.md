@@ -44,10 +44,22 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 ## SIMBOLIZACIÓN DE ESTROMAS
 
 ### Formas
-La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero es la más significativa,  puede simbolizar la realidad haciendo referencia a los contornos del estroma que suelen conceptualizarse como planos. Pero la realidad es tridimensional 
-Decir que todas las formas o estromas son tridimensionales es correcto?
-No parece en ocaciones cierto, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección.
-¿Pero estas aparentes dimensiones una y dos las estamos construyendo por nuestra caracteristica de simplificar o simbolizar la forma de los estromas a solo dos dimensiones?
+La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero es la más significativa,  puede simbolizar la realidad haciendo referencia a los contornos del estroma que suelen conceptualizarse como planos. Pero la realidad se nos presenta por la experiencia como tridimensional 
+Decir que todas las formas o estromas son tridimensionales ¿es correcto?
+
+No parece en ocaciones cierto, pues "vivimos en un universo plano" bidimensional o la luz se transmite en linea recta, unidimensional o el tiempo como la luz o la música se nos presenta como unidimensional de una sola dirección. Nos acostrumbramos a la representación bidimensional en textos o imágenes, etc..
+
+¿Pero estas aparentes dimensiones una y dos las estamos construyendo por nuestra caracteristica de simplificar o simbolizar la forma de los estromas a solo dos dimensiones o son reales?
+
+La experiencia nos dice que la realidad es tridimensional pero simplificamos o simbolizamos en dos dimensiones
+
+¿Podemos deducir que todos los estromas son tridimensionales? ¿También la música o la imagen y que estas diferentes dimensiones son producto de nuestra simbolización?
+
+Vamos a afirmalo anotandolo como una premisa estromática para poder continuar
+
+ - Todos los estromas son tridimensionales pero en su simbolización nos aparecen como lineales o planos
+
+
 
 ### Formas visuales
 

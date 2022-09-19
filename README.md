@@ -34,7 +34,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   - Solemos considerar en la mayoría de las ocasiones el contorno de un estroma dentro del estroma "entorno del Yo"
 
-  - Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico y están en continua circularidad debido a operaciones estromáticas del dintorno en E2 (pensamientos)
+  - Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico y está en continua circularidad debido a operaciones estromáticas del dintorno del Yo en E2 (pensamientos)
 
   - Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar sus operaciones estromáticas, el entorno del estroma, su cara oculta y su dintorno
   

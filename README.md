@@ -36,8 +36,9 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   - Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico
 
-  - Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar el entorno del estroma, su cara oculta y su dintorno
-
+  - Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar sus operaciones estromáticas, el entorno del estroma, su cara oculta y su dintorno
+  
+  - La parte psíquica E2, creencias y emociones afecta a la lógica del Yo E3 formando un filtro continuo sobre lo que es cierto o falso de la realidad
 
 
 ## SIMBOLIZACIÓN

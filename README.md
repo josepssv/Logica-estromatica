@@ -18,7 +18,7 @@ Una operación estromática es la transfomación de un estroma en otro en el tie
 
 ## PREMISAS LÓGICAS
 
-La influencia del lenguaje y su uso habitual nos hace considerar estas premisas o aclaraciones que sustentan un posterior desarrollo para poder entender la realidad desde la persperctiva humana
+La influencia del lenguaje y su uso habitual nos hace considerar estas premisas o aclaraciones que sustentan un posterior desarrollo de estas y para poder entender la realidad desde la persperctiva humana
 
   - Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 

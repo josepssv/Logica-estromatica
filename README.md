@@ -49,47 +49,47 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
  
 
 
-### 1 Un estroma siempre es estroma del Yo
+### 1- Un estroma siempre es estroma del Yo
 
 Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
 
-### 2 Un estroma nunca es estable
+### 2- Un estroma nunca es estable
 
 Un estroma procede de estromas anteriores y sigue continuamente en el presente en operaciónes estromáticas, pero tendemos a considerarlo estable 
 
 Casi siempre, un estroma está desequilibrado hacia una de sus partes, es más real, más psíquico o más lógico y está en continua circularidad debido a operaciones estromáticas del dintorno del Yo en E2 (pensamientos)
 
-### 3 Los demás modifican el entorno del Yo
+### 3- Los demás modifican el entorno del Yo
 
 Las operaciones estromáticas de los "otros Yo" se consideran modificaciones (operaciones estromáticas) del entorno del Yo
 
-### 4 Un estroma falso no tiene todos sus espacios y características
+### 4- Un estroma falso no tiene todos sus espacios y características
 
 Un estroma debe ser completo, si no es estroma completo será falso. Para esto su parte física debe contener sus tres espacios: entorno, contorno y dintorno y debemos poder asignarle sus tres características: física, psíquica y lógica
 
-### 5 La representación del Yo siempre es parcial
+### 5- La representación del Yo siempre es parcial
 
 El propio Yo no puede representarse totalmente de ningun modo, solo partes (otros estromas) pueden simplificarse o simbolizarse
 
-### 6 El contorno representa al Yo
+### 6- El contorno representa al Yo
 
 Casi siempre el estroma Yo está referido a uno de los espacios, al entorno, al contorno o a su dintorno, siendo el representativo del estroma Yo el contorno
 
-### 7 El entorno es obvio
+### 7- El entorno es obvio
 
 Solemos considerar en la mayoría de las ocasiones los estromas dentro del estroma "entorno del Yo" omitiendo esta obviedad
 
-### 8 Para simbolizar hay que suprimir
+### 8- Para simbolizar hay que suprimir
 
 Para representar el estroma (abstraerlo, simplificarlo), tendemos a aislar o eliminar sus operaciones estromáticas, el entorno del estroma, su cara oculta y su dintorno
 
-### 9 El estroma trascendental es el nucleo del estroma Yo
+### 9- El estroma trascendental es el nucleo del estroma Yo
 
 La parte psíquica E2, creencias y emociones afecta a la lógica del Yo E3 formando un filtro continuo sobre lo que es cierto o falso de la realidad
 
 El trabajo del Yo es mantener la unidad y evitar la fragmentación
 
-### 10 Un estroma es tridimensional y finito
+### 10- Un estroma es tridimensional y finito
 
 La forma es la solo una característica, entre otras como el color, la textura, de la parte material del estroma, pero es la más significativa,  puede simbolizar la realidad haciendo referencia a los contornos del estroma que suelen conceptualizarse como planos. Pero la realidad se nos presenta por la experiencia como tridimensional 
 
@@ -111,13 +111,13 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
 
-### 11 El dintorno es invisible e inoperable 
+### 11- El dintorno es invisible e inoperable 
 
 El dintorno de cualquier estroma suele ser además de invisible, muy sutil. Al realizar la operación estromática de abrir o dividir el dintorno se forma un estroma nuevo
 
-### 12 El punto de vista del Yo es dinámico 
+### 12- El punto de vista del Yo es dinámico 
 
-### 13 Las operaciones estromáticas transforman desde el inicio y final de la existencia del estroma 
+### 13- Las operaciones estromáticas transforman desde el inicio y final de la existencia del estroma 
 
 
 

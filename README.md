@@ -44,7 +44,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   12- El punto de vista del Yo es dinámico
 
-  13- Las operaciones estromáticas transforman desde el inicio y final de la existencia del estroma 
+
 
  
 
@@ -105,8 +105,11 @@ La experiencia nos dice que la realidad es tridimensional pero simplificamos o s
 
 Las matemáticas analizan dimensiones fractales para expresar formas que aparentan dimensiones intermedias, por ejemplo las nubes dependiendo de la escala no son totalmente tridimensionales sino que es una capa muy fina, casi plana dentro de la atmósfera terrestre que es esférica. Por lo tanto las nubes son tridimensionales, pero no tanto. Conceptualmente es sencillo admitir el infinito, que no hay dimensiones, un punto, una recta, un plano o n-dimensionales pero la realidad en su análisis macro o micro no demuestra otra cosa que tridimensionalidad
 
+Estas característica de finitud del estroma nos aportan otro principio todo estroma tiene un inicio y final de su existencia
+
 ¿Podemos deducir entonces que todos los estromas son tridimensionales? También que ¿un pensamiento, la música o la imagen son tridimensionales y que estas diferentes dimensiones son producto de nuestra simbolización?
 
+ 
 Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
@@ -117,7 +120,7 @@ El dintorno de cualquier estroma suele ser además de invisible, muy sutil. Al r
 
 ### 12- El punto de vista del Yo es dinámico 
 
-### 13- Las operaciones estromáticas transforman desde el inicio y final de la existencia del estroma 
+
 
 
 

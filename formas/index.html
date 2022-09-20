@@ -67,14 +67,21 @@
 var s = function( p ) { // p could be any variable name
   var x = 100; 
   var y = 100;
+  var img1,img2,img3
+  p.preload=function(){
+  img1 =p.loadImage("0-a.png")
+  img2 =p.loadImage("flame1.png")
+  img3 =p.loadImage("2-hand.png")
+}
   p.setup = function() {
-    p.createCanvas(400, 200);
+    p.createCanvas(200, 200);
   };
 
   p.draw = function() {
-    p.background(0);
-    p.fill(255);
-    p.rect(x,y,50,50);
+    p.background(200);
+   p.image(img1,0,0,200,200);
+    p.image(img2,100,100,90,40);
+     p.image(img2,100,100,90,40);
   };
 };
 var myp5 = new p5(s, 'c1');

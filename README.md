@@ -42,7 +42,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 
   11- El dintorno es invisible e inoperable 
 
-  12- El punto de vista del Yo es dinámico
+
 
 
 
@@ -52,6 +52,8 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
 ### 1- Un estroma siempre es estroma del Yo
 
 Un estroma siempre es "estroma del Yo" https://github.com/josepssv/EstromasDelYo
+
+El punto de vista del Yo es dinámico 
 
 ### 2- Un estroma nunca es estable
 
@@ -118,7 +120,6 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
 El dintorno de cualquier estroma suele ser además de invisible, muy sutil. Al realizar la operación estromática de abrir o dividir el dintorno se forma un estroma nuevo
 
-### 12- El punto de vista del Yo es dinámico 
 
 
 

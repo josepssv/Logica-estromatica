@@ -67,7 +67,7 @@
 var s = function( p ) { // p could be any variable name
   var x = 100; 
   var y = 100;
-  var margin={all:40,u:0,r:0,b:0,l:0};// all, up, right, bottom, left
+  var margin={all:20,u:0,r:0,b:0,l:0};// all, up, right, bottom, left
   var img1,img2,img3
   var W=200
   var H=250
@@ -77,12 +77,12 @@ var s = function( p ) { // p could be any variable name
   img3 =p.loadImage("2-hand.png")
 }
   p.setup = function() {
-    p.createCanvas(W+margin.all, H+margin.all);
+    p.createCanvas(W+margin.all*2, H+margin.all*2);
   };
 
   p.draw = function() {
     p.background(200);
-   p.image(img1,margin.all/2,margin.all/2,200,250);
+   p.image(img1,margin.all,margin.all,W,H);
     p.image(img2,100,100,25,52);
    
   };

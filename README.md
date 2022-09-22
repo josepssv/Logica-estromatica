@@ -40,7 +40,7 @@ La influencia del lenguaje y su uso habitual nos hace considerar estas premisas 
   
   10- Un estroma es tridimensional y finito
 
-  11- El dintorno es invisible e inoperable 
+  11- El dintorno es inoperable 
 
 
 
@@ -117,7 +117,7 @@ Vamos a afirmalo, anotándolo como una premisa lógica para poder continuar
 
  - Todos los estromas son tridimensionales y finitos pero en su simbolización nos pueden aparecer infinitos, sin dimensión, puntuales, lineales, planos o de otras dimensiones superiores
 
-### 11- El dintorno es invisible e inoperable 
+### 11- El dintorno es inoperable 
 
 El dintorno de cualquier estroma suele ser además de invisible, muy sutil. Al realizar la operación estromática de abrir o dividir el dintorno se forma un estroma nuevo
 
